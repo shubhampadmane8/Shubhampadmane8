@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shubham Padmane</h1>
-<h3 align="center">A passionate frontend developer "Building beautiful and functional websites.</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm passionate about leveraging data analytics to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel, Power BI, SQL, and Python, I aim to combine technical expertise with business acumen to deliver impactful solutions.
 
+When I’m not analyzing trends or automating dashboards, you’ll probably find me exploring new tech, optimizing workflows, or geeking out over the latest BI tools!
+
+💡 My motto: "Data never lies, but it sure knows how to tell a great story!"
+
+</h3>
+ 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhampadmane8&label=Profile%20views&color=0e75b6&style=flat" alt="shubhampadmane8" /> </p>
